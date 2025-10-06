@@ -10,7 +10,7 @@
   "keywords": ["mrhansamala", "whatsapp-bot", "whatsapp md bot"],
   "author": "Mr-Hansamala",
   "license": "ISC",
-   "dependencies": {
+  "dependencies": {
     "@distube/ytdl-core": "^4.13.7",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
@@ -35,7 +35,7 @@
     "google-it": "^1.6.4",
     "human-readable": "^0.2.1",
     "instagram-user": "^2.0.1",
-    "jimp": "^0.16.13",
+    "jimp": "^1.6.0",
     "jpeg-js": "^0.4.4",
     "jsqr": "^1.4.0",
     "libphonenumber": "^0.0.10",
